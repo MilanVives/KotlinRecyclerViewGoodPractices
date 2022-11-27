@@ -21,8 +21,8 @@ import java.util.*
  */
 class MainFragment : Fragment() {
 
-    private val user1 = User(2, "Dirk", "Hostens", "password", true)
-    private val user2 = User(1, "Frank", "Debaere", "password", true)
+    private val user1 = User(2, "Milan", "Dima", "password", true)
+    private val user2 = User(1, "Dirk", "Hostens", "password", true)
     private val toDo = ToDo(
         1,
         "Afwerken detailscherm ToDo",

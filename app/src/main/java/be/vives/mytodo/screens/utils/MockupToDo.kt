@@ -9,8 +9,8 @@ import java.util.*
 class MockupToDo {
 
     companion object {
-        private val assignedUser = User(2, "Dirk", "Hostens", "password", true)
-        private val createduser = User(1, "Frank", "Debaere", "password", true)
+        private val assignedUser = User(2, "Milan", "Dima", "password", true)
+        private val createduser = User(1, "Dirk", "Hostens", "password", true)
 
         private val toDo = ToDo(
             1,
